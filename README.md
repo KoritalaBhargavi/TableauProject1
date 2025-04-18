@@ -29,7 +29,7 @@ The following visualizations were created in Tableau:
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](https://github.com/KoritalaBhargavi/TableauProject1/blob/main/Screenshot%202024-06-24%20231400.png)
+![Netflix Dashboard](https://github.com/KoritalaBhargavi/TableauProject1/blob/main/Netflix.png)
 
 ## 📌 Dataset Source
 
